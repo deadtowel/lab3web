@@ -1,0 +1,37 @@
+.header {}
+
+.header__title {}
+
+.main {}
+
+.main__title {}
+
+.main__subtitle {}
+
+.main__image {}
+
+.main__list {
+	display: flex;
+}
+
+.list {
+	margin: 0 auto;
+}
+
+.list__column {}
+
+.list__column:first-child {
+	margin-right: 25px;
+}
+
+.list__item {}
+
+.list__link {}
+
+/* Стилі для таблиці */
+
+table {}
+
+td {
+	border: 1px solid #000;
+}
